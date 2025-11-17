@@ -21,4 +21,10 @@ Undergraduate | Department of Computing and Information System | Sabaragamuwa Un
 ---
 [![](https://visitcount.itsvg.in/api?id=dileesha001&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dileesha001/dileesha001/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dileesha001/dileesha001/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/dileesha001/dileesha001/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
